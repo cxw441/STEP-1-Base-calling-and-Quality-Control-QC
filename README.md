@@ -1,4 +1,4 @@
-# BASECALLING
+# STEP 1: Base calling and Quality Control (QC)
 
 wget command
 
