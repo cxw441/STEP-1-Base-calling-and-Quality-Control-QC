@@ -1,4 +1,4 @@
-# DRAFT
+# BASECALLING
 
 wget command
 
