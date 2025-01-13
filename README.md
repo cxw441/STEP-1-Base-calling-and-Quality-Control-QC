@@ -12,9 +12,13 @@ Extraction: tar zxvf dorado-0.8.3-linux-x64.tar.gz
 
 
 module purge
+
 module load bear-apps/2022b/live
+
 module load SAMtools/1.17-GCC-12.2.0
+
 samtools view barcode01.bam | less
+
 
 
 
