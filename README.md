@@ -1,10 +1,6 @@
 # STEP 1: Base calling and Quality Control (QC)
 
-Basecaller 
-Guppy 
-Albacore
-Chiron 
-Dorado 
+Basecaller - Guppy, Albacore, Chiron, Dorado 
 
 wget command
 
